@@ -98,13 +98,10 @@ I believe great software comes from understanding the *why* behind every layer �
 
 ## 🚀 Current Projects
 
-| Project | Description | Stack |
+| Project | Live | Stack |
 |---------|-------------|-------|
-| 🔧 **Project Alpha** | *Add your project description here* | Rust · TypeScript |
-| 🌐 **Project Beta** | *Add your project description here* | Python · React |
-| ⚡ **Project Gamma** | *Add your project description here* | C++ · Node.js |
-
-> 💬 *Replace the above with your real projects — name, one-line description, and tech stack!*
+| 🔧 **mern employee dashboard Public** | *https://mern-employee-dashboard-2fvl.vercel.app* | JavaScript · react  |
+| 🌐 **trinethra feedback analyzer Public** | *upcoming* | Node.js (v18+) · Ollama |
 
 ---
 
@@ -122,8 +119,8 @@ I believe great software comes from understanding the *why* behind every layer �
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-kumar-yadav-235210303)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamleshkumaryadav5951@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamleshkumaryadav5951-pixel)
 
 </div>
