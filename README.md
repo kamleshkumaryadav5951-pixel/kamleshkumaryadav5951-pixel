@@ -20,33 +20,31 @@
 
 ## 🧑‍💻 About Me
 
-```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    location: &'static str,
-    languages: Vec<&'static str>,
-    passion: &'static str,
-}
+<table>
+<tr>
+<td valign="top" width="50%">
 
-fn main() {
-    let me = Developer {
-        name: "Kamlesh Kumar Yadav",
-        role: "Full Stack Developer",
-        location: "Bihar, India 🇮🇳",
-        languages: vec!["C++", "Rust", "Python", "JavaScript", "TypeScript"],
-        passion: "Building systems that are fast, reliable & elegant",
-    };
+### Who I Am
+Hi! I'm **Kamlesh Kumar Yadav**, a Full Stack Developer from **Bihar, India 🇮🇳**
 
-    println!("Hello, World! I'm {}", me.name);
-}
-```
+I work across the entire stack — from writing tight, performant systems in **C++** and **Rust**, to crafting smooth user interfaces in **TypeScript** and **React**. I enjoy building things that are fast, reliable, and maintainable.
 
-- 🔭 Currently building cool full-stack projects
-- 🌱 Deep-diving into **Rust systems programming** & **TypeScript** ecosystems
-- ⚡ I love the intersection of **low-level systems** and **modern web**
-- 💡 Believer in clean code, clean architecture & good documentation
-- 🤝 Open to collaborations on interesting open-source projects
+I believe great software comes from understanding the *why* behind every layer — from memory management to UI micro-interactions.
+
+</td>
+<td valign="top" width="50%">
+
+### Quick Facts
+- 🔭 &nbsp; Currently building full-stack projects
+- 🦀 &nbsp; Deep into **Rust** systems programming
+- ⚡ &nbsp; Love the intersection of low-level and modern web
+- 💡 &nbsp; Clean code, clean architecture, good docs
+- 🤝 &nbsp; Open to open-source collaborations
+- 📍 &nbsp; Based in Bihar, India
+
+</td>
+</tr>
+</table>
 
 ---
 
