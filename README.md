@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer from India, with a strong focus on backend development</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamleshkumaryadav5951-pixel" alt="kamleshkumaryadav5951-pixel" /></a> </p>
-
 - 🌱 I’m currently learning **MERN FullStack Web Dev**
 
 - 💬 Ask me about **DevOps**
