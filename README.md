@@ -25,7 +25,7 @@
 <td valign="top" width="50%">
 
 ### Who I Am
-Hi! I'm **Kamlesh Kumar Yadav**, a Full Stack Developer from **Bihar, India 🇮🇳**
+Hi! I'm **Kamlesh Kumar Yadav**, a Full Stack Developer from **India 🇮🇳**
 
 I work across the entire stack — from writing tight, performant systems in **C++** and **Rust**, to crafting smooth user interfaces in **TypeScript** and **React**. I enjoy building things that are fast, reliable, and maintainable.
 
