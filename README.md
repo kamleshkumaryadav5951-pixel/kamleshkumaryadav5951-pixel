@@ -62,10 +62,15 @@
 
 <br/>
 
-<!-- Support -->
+## Support
 
-[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/kamlesh5951)
-## GitHub Stats
+<p align="center">
+  <a href="https://buymeachai.ezee.li/kamlesh5951">
+    <img src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png" alt="Buy Me A Chai" width="220">
+  </a>
+</p>
+
+<br><br>
 
 <br/>
 
