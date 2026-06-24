@@ -63,11 +63,8 @@
 <br/>
 
 <!-- Support -->
-<h2 align="center">Support</h2>
-<p><a href="https://www.buymeacoffee.com/kamlesh5951"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kamlesh5951" /></a></p><br><br>
-<!-- Stats -->
-<br/>
 
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/kamlesh5951)
 ## GitHub Stats
 
 <br/>
